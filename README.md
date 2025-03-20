@@ -15,7 +15,7 @@ A empresa precisava de um painel visual para acompanhar o desempenho de suas loj
 Meu objetivo era criar um dashboard interativo que permitisse à empresa analisar o desempenho das lojas com base em diferentes métricas, como faturamento, formas de pagamento e produtos mais vendidos. O dashboard precisava fornecer insights práticos e úteis para a gestão das lojas.
 
 ### 👨‍💻 Ações:
-- Importe os dados do Kaggle para o Power BI, realizando limpeza e tratamento dos dados, ajustando tipos de variáveis e corrigindo valores nulos.
+- Importação dos dados do Kaggle para o Power BI, realizando limpeza e tratamento dos dados, ajustando tipos de variáveis e corrigindo valores nulos.
 - Criei métricas e medidas no Power BI para calcular o total de vendas, ticket médio e comissão.
 - Desenvolvi visualizações interativas, permitindo a análise do desempenho por loja, período e forma de pagamento, além de destacar os produtos mais representativos no faturamento.
 - Integrei filtros interativos para permitir a segmentação dos dados conforme necessário.
