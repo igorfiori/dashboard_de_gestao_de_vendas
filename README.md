@@ -1,6 +1,6 @@
 # Dashboard de Gestão de Vendas
 
-![Texto Alternativo](caminho/para/imagem.png)
+![Texto Alternativo](dashboard_gestão_vendas.JPG)
 
 Este projeto tem como objetivo analisar o desempenho de vendas de uma rede fictícia de lojas, utilizando dados do Kaggle e construindo um dashboard interativo no Power BI.
 
