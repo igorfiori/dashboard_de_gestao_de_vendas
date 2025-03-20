@@ -6,27 +6,25 @@ Este projeto tem como objetivo analisar o desempenho de vendas de uma rede fict�
 
 ## 📌 Sobre o Projeto
 
-O objetivo deste projeto foi analisar o desempenho de vendas de uma rede fictícia de lojas, utilizando dados do Kaggle e criando um dashboard interativo no Power BI.
+O projeto "Dashboard de Gestão de Vendas" foi criado com o objetivo de analisar o desempenho de vendas de uma rede fictícia de lojas, utilizando dados extraídos de um conjunto do Kaggle e desenvolvendo um dashboard interativo no Power BI.
 
-## ⭐ STAR do Projeto
+### 📊 Situação:
+A empresa precisava de um painel visual para acompanhar o desempenho de suas lojas e melhorar a tomada de decisões sobre produtos e estratégias de vendas. Para isso, utilizamos dados de vendas de três filiais, com informações como pedidos, produtos, quantidade, preço e forma de pagamento.
 
-- **Situação**:  
-  Eu estava trabalhando em um projeto que envolvia a análise de vendas de uma rede fictícia de lojas utilizando dados extraídos de um conjunto do Kaggle. A empresa precisava de um painel visual para acompanhar o desempenho de suas lojas e melhorar a tomada de decisões sobre produtos e estratégias de vendas.
+### 🛠️ Tarefa:
+Meu objetivo era criar um dashboard interativo que permitisse à empresa analisar o desempenho das lojas com base em diferentes métricas, como faturamento, formas de pagamento e produtos mais vendidos. O dashboard precisava fornecer insights práticos e úteis para a gestão das lojas.
 
-- **Tarefa**:  
-  Meu objetivo era criar um dashboard interativo no Power BI que permitisse analisar o desempenho das lojas com base em diferentes métricas, como faturamento, formas de pagamento e produtos mais vendidos. O dashboard deveria fornecer insights práticos para a gestão das lojas.
+### 👨‍💻 Ações:
+- Importe os dados do Kaggle para o Power BI, realizando limpeza e tratamento dos dados, ajustando tipos de variáveis e corrigindo valores nulos.
+- Criei métricas e medidas no Power BI para calcular o total de vendas, ticket médio e comissão.
+- Desenvolvi visualizações interativas, permitindo a análise do desempenho por loja, período e forma de pagamento, além de destacar os produtos mais representativos no faturamento.
+- Integrei filtros interativos para permitir a segmentação dos dados conforme necessário.
 
-- **Ação**:
-  - Importe os dados do Kaggle para o Power BI e realizei um processo de limpeza e tratamento de dados, corrigindo valores nulos e ajustando os tipos de variáveis.
-  - Criei métricas e medidas no Power BI para calcular o total de vendas, ticket médio e comissão.
-  - Desenvolvi visualizações interativas que permitiram analisar o desempenho por loja, período e forma de pagamento, além de detalhar os produtos mais representativos no faturamento.
-  - Integrei filtros interativos para que os usuários pudessem segmentar os dados conforme necessário.
-
-- **Resultado**:
-  - O dashboard proporcionou uma análise clara do desempenho das lojas, com destaque para o maior faturamento de uma filial (R$ 2,9 milhões).
-  - Os gestores conseguiram identificar que o cartão de crédito representava 64,9% das vendas, o que levou a ajustes nas estratégias de pagamento.
-  - A visualização dos produtos mais impactantes no faturamento ajudou a identificar o crescimento de 330,97% nas vendas de bolsas.
-  - O projeto facilitou a análise de dados e apoiou decisões estratégicas que impactaram diretamente no aumento do faturamento de janeiro, que foi de R$ 800 mil.
+### 📈 Resultado:
+- O dashboard forneceu uma análise clara do desempenho das lojas, destacando o maior faturamento de uma filial (R$ 2,9 milhões).
+- Identificamos que o cartão de crédito representava 64,9% das vendas, levando a ajustes nas estratégias de pagamento.
+- A visualização dos produtos mais impactantes no faturamento ajudou a identificar um crescimento de 330,97% nas vendas de bolsas.
+- O projeto facilitou a análise de dados e ajudou nas decisões estratégicas, resultando em um aumento no faturamento de janeiro, que foi de R$ 800 mil.
 
 ## 📊 Contexto
 
